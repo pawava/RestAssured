@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c188faee-1007-4fc5-bbba-b68e95208cdf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/Authorisatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/DEmo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/DEmoauth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/DemoOth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/Des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Auth/SERDES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Authocation/basicauth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CheckValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MYFirstTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PostMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueryParameter/Auth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueryParameter/Queryparam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RATEST2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Scession17/jSonObjectusingjaksonapi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Secession18/Fileupload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Secession19/OwnApiTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Secession20/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Secession20/serializationAndDes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Xmlvaliddation/validaterespons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secession15/jasonOBJECTJAVAMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secision6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vallidateResponse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2TZC1quzAFutjpGyVgLqxZ15RLP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sudha-admin/IdeaProjects/RestAssured/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.Authorisatin">
+    <configuration name="Auth.BaseURI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QueryParameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="QueryParameter" />
+      <option name="MAIN_CLASS_NAME" value="QueryParameter.Auth" />
+      <option name="METHOD_NAME" value="BaseURI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Authorisatin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Auth" />
+      <option name="MAIN_CLASS_NAME" value="Auth.Authorisatin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fileupload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Secession18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Secession18" />
+      <option name="MAIN_CLASS_NAME" value="Secession18.Fileupload" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnApiTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Secession19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Secession19" />
+      <option name="MAIN_CLASS_NAME" value="Secession19.OwnApiTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basicauth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Authocation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Authocation" />
+      <option name="MAIN_CLASS_NAME" value="Authocation.basicauth" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Authorisatin" />
+        <item itemvalue="TestNG.Auth.BaseURI" />
+        <item itemvalue="TestNG.basicauth" />
+        <item itemvalue="TestNG.OwnApiTesting" />
+        <item itemvalue="TestNG.Fileupload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c188faee-1007-4fc5-bbba-b68e95208cdf" name="Changes" comment="" />
+      <created>1691241007837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691241007837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/QueryParameter/Auth.java</url>
+          <line>9</line>
+          <properties class="QueryParameter.Auth" method="BaseURI">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Authocation/basicauth.java</url>
+          <line>11</line>
+          <properties class="Authocation.basicauth" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
